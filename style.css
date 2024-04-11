@@ -1,0 +1,49 @@
+.principal{
+  background: #CCCCCC;
+}
+body{
+  background-color: ;
+}
+#cadeira{
+  width: 100%;
+}
+h1{
+  text-align: center;
+}
+#missao{
+  font-size: 20px;
+}
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+}
+
+p {
+  text-align: center;
+}
+#LOL{
+  color: #FF0000;
+}
+
+img{
+  border:inset red 5px;
+}
+
+
+h2{
+  text-align: center;
+}
+.item{
+  font-style: italic;
+}
+
+#beneficios{
+  width: 50%;
+}
+
+.beneficios{
+  width: 100%;
+  background-color: white;
+  padding: 20px
+  }
