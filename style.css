@@ -1,3 +1,8 @@
+.titulo principl{
+  padding-left: 20px;
+}
+
+
 .principal{
   background: #CCCCCC;
 }
@@ -7,8 +12,7 @@ body{
 #cadeira{
   width: 100%;
 }
-h1{
-  text-align: center;
+
 }
 #missao{
   font-size: 20px;
@@ -30,10 +34,11 @@ img{
   border:inset red 5px;
 }
 
-
-h2{
-  text-align: center;
+.texto centralizado{
+ text-align: center; 
 }
+
+
 .item{
   font-style: italic;
 }
